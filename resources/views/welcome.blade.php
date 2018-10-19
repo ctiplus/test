@@ -85,8 +85,8 @@
                 </div>
 
                 <p class="test1">Hello! cześć Tomek</p>
-                <p class="test2">Zmiana Tomek zmiana zmiana Hello!</p>
-                <p class="test3">Zmiana Tomek Hello!</p>
+                <p class="test2">Zmiana Tomek Hello!</p>
+                <p class="test3">Gdzie pizza!</p>
                 <p class="test4">Zmiana Tomek2 Hello!</p>
 
 
