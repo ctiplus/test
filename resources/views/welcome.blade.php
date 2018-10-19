@@ -85,7 +85,7 @@
                 </div>
 
                 <p>Hello! cześć Tomek</p>
-                <p>Zmiana Tomek Hello!</p>
+                <p>Zmiana Tomek zmiana zmiana Hello!</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
