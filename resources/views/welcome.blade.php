@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #000;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -92,7 +92,12 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
 
-                
+                <p>Hello! cześć Tomek</p>
+                <p>Zmiana Tomek Hello!</p>
+                <p>Zmiana Tomek2 Hello!</p>
+
+
+
                 <p>Zmiana Tomek Hello!</p>
 
             </div>
