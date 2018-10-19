@@ -84,10 +84,11 @@
                     Zmiana tytułu
                 </div>
 
-                <p>Hello! cześć Tomek</p>
-                <p>Zmiana Tomek zmiana zmiana Hello!</p>
-                <p>Zmiana Tomek Hello!</p>
-                <p>Zmiana Tomek2 Hello!</p>
+                <p class="test1">Hello! cześć Tomek</p>
+                <p class="test2">Zmiana Tomek zmiana zmiana Hello!</p>
+                <p class="test3">Zmiana Tomek Hello!</p>
+                <p class="test4">Zmiana Tomek2 Hello!</p>
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
@@ -97,6 +98,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
             </div>
         </div>
     </body>
