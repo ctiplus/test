@@ -86,6 +86,7 @@
 
                 <p>Hello! cześć Tomek</p>
                 <p>Zmiana Tomek Hello!</p>
+                <p>Gdzie pizza!</p>
                 <p>Zmiana Tomek2 Hello!</p>
 
                 <div class="links">
