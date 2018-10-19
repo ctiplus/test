@@ -84,7 +84,7 @@
                     Zmiana tytułu
                 </div>
 
-                <p>Hello!</p>
+                <p>Hello! cześć Tomek</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
