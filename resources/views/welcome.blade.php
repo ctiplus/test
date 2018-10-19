@@ -85,6 +85,7 @@
                 </div>
 
                 <p>Zmiana Tomek Hello!</p>
+                <p>Zmiana Tomek2 Hello!</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
