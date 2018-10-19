@@ -97,6 +97,15 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+                <p>Hello! cześć Tomek</p>
+                <p>Zmiana Tomek Hello!</p>
+                <p>Zmiana Tomek2 Hello!</p>
+
+
+
+                <p>Zmiana Tomek Hello!</p>
+
             </div>
         </div>
     </body>
