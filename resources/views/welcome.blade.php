@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #000;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -86,6 +86,8 @@
 
                 <p>Hello! cześć Tomek</p>
                 <p>Zmiana Tomek zmiana zmiana Hello!</p>
+                <p>Zmiana Tomek Hello!</p>
+                <p>Zmiana Tomek2 Hello!</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
