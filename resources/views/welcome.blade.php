@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #000;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -81,8 +81,14 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Nie psuć kurna!!!
                 </div>
+
+                <p class="test1">Hello! cześć Tomek</p>
+                <p class="test2">Zmiana Tomek Hello!</p>
+                <p class="test3">Gdzie pizza!</p>
+                <p class="test4">Zmiana Tomek2 Hello!</p>
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
@@ -92,6 +98,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
             </div>
         </div>
     </body>
